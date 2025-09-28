@@ -1,0 +1,84 @@
+CRITICAL - 2025-09-24 07:04:48 --> ErrorException: Undefined variable $title
+[Method: GET, Route: employeelist]
+in APPPATH\Views\employees\index.php on line 1.
+ 1 APPPATH\Views\employees\index.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\wamp64\\www\\ejoining\\app\\Views\\employees\\index.php', 1)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\wamp64\\www\\ejoining\\app\\Views\\employees\\index.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('employees/index', [], true)
+ 5 APPPATH\Controllers\EmployeeController.php(15): view('employees/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\EmployeeController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\EmployeeController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-24 07:04:53 --> ErrorException: Undefined variable $title
+[Method: GET, Route: employeelist]
+in APPPATH\Views\employees\index.php on line 1.
+ 1 APPPATH\Views\employees\index.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\wamp64\\www\\ejoining\\app\\Views\\employees\\index.php', 1)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\wamp64\\www\\ejoining\\app\\Views\\employees\\index.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('employees/index', [], true)
+ 5 APPPATH\Controllers\EmployeeController.php(15): view('employees/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\EmployeeController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\EmployeeController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-24 07:04:54 --> ErrorException: Undefined variable $title
+[Method: GET, Route: employeelist]
+in APPPATH\Views\employees\index.php on line 1.
+ 1 APPPATH\Views\employees\index.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\wamp64\\www\\ejoining\\app\\Views\\employees\\index.php', 1)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\wamp64\\www\\ejoining\\app\\Views\\employees\\index.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('employees/index', [], true)
+ 5 APPPATH\Controllers\EmployeeController.php(15): view('employees/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\EmployeeController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\EmployeeController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-24 07:05:08 --> ErrorException: Undefined variable $title
+[Method: GET, Route: employeelist]
+in APPPATH\Views\employees\index.php on line 1.
+ 1 APPPATH\Views\employees\index.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\wamp64\\www\\ejoining\\app\\Views\\employees\\index.php', 1)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\wamp64\\www\\ejoining\\app\\Views\\employees\\index.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('employees/index', [], true)
+ 5 APPPATH\Controllers\EmployeeController.php(15): view('employees/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\EmployeeController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\EmployeeController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-24 07:06:31 --> ErrorException: Undefined variable $title
+[Method: GET, Route: employeelist]
+in APPPATH\Views\employees\index.php on line 1.
+ 1 APPPATH\Views\employees\index.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\wamp64\\www\\ejoining\\app\\Views\\employees\\index.php', 1)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\wamp64\\www\\ejoining\\app\\Views\\employees\\index.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('employees/index', [], true)
+ 5 APPPATH\Controllers\EmployeeController.php(15): view('employees/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\EmployeeController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\EmployeeController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-09-24 07:07:23 --> ErrorException: Undefined variable $news_item
+[Method: GET, Route: employeelist]
+in APPPATH\Views\employees\index.php on line 12.
+ 1 APPPATH\Views\employees\index.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $news_item', 'C:\\wamp64\\www\\ejoining\\app\\Views\\employees\\index.php', 12)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\wamp64\\www\\ejoining\\app\\Views\\employees\\index.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('employees/index', [], true)
+ 5 APPPATH\Controllers\EmployeeController.php(15): view('employees/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\EmployeeController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\EmployeeController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
